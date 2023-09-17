@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on any Java or C++ based programs.
 - 📫 You can reach me at bgrunes14@protonmail.com.
 
-Check out my website at [a link](bgrunes.github.io)!
+Check out my website at [a link](https://bgrunes.github.io)!
 
 Most Recent Project:
-[a link](gatorvidhci.weebly.com)
+[a link](https://gatorvidhci.weebly.com)
 
 <!---
 bgrunes/bgrunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
