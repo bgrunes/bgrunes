@@ -3,6 +3,7 @@
 - 🌱 Working towards a bachelors degree in Computer Science at University of Florida.
 - 💞️ I’m looking to collaborate on any projects written in C#, gdscript, C++, Java. I am also interested in working on mods for games like Vintage Story.
 - 📫 You can reach me at bgrunes14@gmail.com.
+- Help me reach my goal! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81CBI6P)
 
 Most Recent Projects:
 - [Wolf Kill Counter](https://github.com/bgrunes/WolfKillCounter)
