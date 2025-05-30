@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bgrunes
 - 👀 I’m interested in software engineering and game development.
 - 🌱 Working towards a bachelor's degree in Computer Science at the  University of Florida.
-- 💞️ I’m looking to collaborate on any projects written in C#, gdscript, C++, and Java. I am also interested in working on mods for games like Vintage Story.
+- 💞️ I’m looking to collaborate on AI and game projects, or projects written in C#, gdscript, C++, and Java.
 - 📫 You can reach me at bgrunes14@gmail.com.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81CBI6P)
