@@ -7,6 +7,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81CBI6P)
 
 Most Recent Projects:
+- [Cohere-Langchain](https://github.com/bgrunes/Cohere-Langchain)
 - [Wolf Kill Counter](https://github.com/bgrunes/WolfKillCounter)
 - [Starborne](https://github.com/ProjectStarborne/Starborne)
 - [GatorVid](https://gatorvidhci.weebly.com)
