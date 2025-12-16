@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @bgrunes
 - 👀 I’m interested in software engineering and game development.
-- 🌱 Working towards a bachelor's degree in Computer Science at the  University of Florida.
+- 🌱 Graduated with a B.S. in Computer Science from the University of Florida.
 - 💞️ I’m looking to collaborate on AI and game projects, or projects written in C#, gdscript, C++, and Java.
 - 📫 You can reach me at bgrunes14@gmail.com.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81CBI6P)
 
 Most Recent Projects:
 - [Cohere-Langchain](https://github.com/bgrunes/Cohere-Langchain)
