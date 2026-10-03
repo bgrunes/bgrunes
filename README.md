@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bgrunes
 - 👀 I’m interested in software engineering and game development.
 - 🌱 Graduated with a B.S. in Computer Science from the University of Florida.
+- Currently pursuing a Masters in Engineering Management and Cert in Systems Engineering at Embry-Riddle Aeronautical University
 - 💞️ I’m looking to collaborate on AI and game projects, or projects written in C#, gdscript, C++, and Java.
 - 📫 You can reach me at bgrunes14@gmail.com.
 
